@@ -1,0 +1,58 @@
+[
+    {
+      "name": "elon mask",
+      "age": "50",
+      "total-income": "$199.6B",
+      "rank": "1",
+      "country": "US",
+      "source":"tesla",
+      "img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704"
+    },
+    {
+        "name": "jeff bezos",
+        "age": "57",
+        "total-income": "$198.7B",
+        "rank": "2",
+        "country": "US",
+        "source":"amazon",
+        "img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+    },
+    {
+        "name": "bernard arnault & family",
+        "age": "72",
+        "total-income": "$181.3B",
+        "rank": "3",
+        "country": "france",
+        "source":"LVMH",
+        "img":"https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212"
+    },
+    {
+      "name": "bill gates",
+      "age": "65",
+      "total-income": "$131.7B",
+      "rank": "4",
+      "country": "US",
+      "source":"microsoft",
+      "img":"https://specials-images.forbesimg.com/imageserve/5f4ebe0c87612dab4f12a597/416x416.jpg?background=000000&cropX1=292&cropX2=3684&cropY1=592&cropY2=3987"
+    },
+    {
+      "name": "mark zuckerberg",
+      "age": "37",
+      "total-income": "$126.2B",
+      "rank": "5",
+      "country": "US",
+      "source":"facebook",
+      "img":"https://specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401"
+    },
+    {
+      "name": "larry page",
+      "age": "48",
+      "total-income": "$121.6B",
+      "rank": "6",
+      "country": "usa",
+      "source":"google",
+      "img":"https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817"
+    }
+    
+    
+]

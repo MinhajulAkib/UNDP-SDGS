@@ -1,12 +1,11 @@
-SAARC: Raise Fund for Climate Change
+UNDP: UNDP COUNTRY BASED TO CHANGE THE CLIMATE.
 
-Project Live Link: 'https://blissful-kepler-838c54.netlify.app/
-'
+Project Live Link: 'https://undp-sdgs-action.netlify.app/'
 
-Purpose of the project:
+Project description:
 
-1.This website is about of SAARC
+1.This website is about of UNDP 
 
-2.The member of SAARC can creat a fund to take action against by bad climate
+2.Different country donate amount to change the climate.
 
-3.It will help wolrd to keep change climate
+3.Targeteed country given to total amount

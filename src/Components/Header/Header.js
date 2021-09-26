@@ -16,7 +16,7 @@ const Header = () => {
         <h5>
          UNDP COUNTRY BASED TO CHANGE THE CLIMATE.
         </h5>
-        <h2>Total Budget 100 million</h2>
+        <h2>Total Budget: $100 million</h2>
       </div>
     </div>
   );

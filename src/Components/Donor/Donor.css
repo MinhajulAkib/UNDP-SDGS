@@ -2,20 +2,20 @@
   width: 250px;
   height: 150px;
   margin: 10px;
-  border: 2px solid gray;
+  border: 2px solid rgb(11, 90, 236);
 }
 .donor-info {
   margin: 10px;
   border: 2px solid rgb(100, 100, 97);
   border-radius: 15px;
-  background-color: rgba(213, 230, 233, 0.479);
+  background-color: rgba(27, 104, 219, 0.479);
   padding-bottom: 10px;
 }
 .donor-info:hover {
-  background-color: rgba(135, 207, 235, 0.445);
+  background-color: rgba(235, 92, 10, 0.445);
 }
 .donate-btn {
-  background-color: rgb(231, 98, 98);
+  background-color: rgb(18, 8, 155);
   width: 150px;
   height: 30px;
   border-radius: 5px;

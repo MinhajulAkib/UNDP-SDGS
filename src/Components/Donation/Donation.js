@@ -12,8 +12,8 @@ const Donation = (props) => {
   }
   return (
     <div className="donation-fund">
-      <h4>Donate Time: {donation.length} </h4>
-      <h4>Donated Value: $ {total} </h4>
+      <h4>UNDP targets: {donation.length} </h4>
+      <h4>Total amount: $ {total} </h4>
       <h4>
         {donation.map((country) => (
           <Country country={country}></Country>

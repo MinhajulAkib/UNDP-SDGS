@@ -9,7 +9,7 @@ const Donor = (props) => {
   return (
     <div className="donor-info">
       <img className="donor-img" src={img} alt="" />
-      <h4>Ruler: {name}</h4>
+      <h4>NAME: {name}</h4>
       <h5>Role: {designation}</h5>
       <h6>Country: {Country}</h6>
       <h6>City: {City}</h6>
@@ -18,7 +18,7 @@ const Donor = (props) => {
         onClick={() => props.handleAddToFund(props.member)}
         className="donate-btn"
       >
-        {donate} Donate
+        {donate} Amount
       </button>
     </div>
   );
